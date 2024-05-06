@@ -1,0 +1,12 @@
+obj_name,obj_type,obj_size,upper_folder
+dir_1,dir,99,directory
+dir_2,dir,166,directory
+file_0_1.txt,file,56,directory
+file_0_2.txt,file,5,directory
+file_0_3.txt,file,170,directory
+dir_1_2,dir,81,directory\dir_1
+file_1_1.txt,file,18,directory\dir_1
+file_1_2_1.txt,file,3,directory\dir_1\dir_1_2
+file_1_2_2.txt,file,78,directory\dir_1\dir_1_2
+file_2_1.txt,file,159,directory\dir_2
+file_2_2.txt,file,7,directory\dir_2

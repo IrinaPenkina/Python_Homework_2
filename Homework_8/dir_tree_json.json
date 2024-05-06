@@ -1,0 +1,68 @@
+[
+  {
+    "obj_name": "dir_1",
+    "obj_type": "dir",
+    "obj_size": 99,
+    "upper_folder": "directory"
+  },
+  {
+    "obj_name": "dir_2",
+    "obj_type": "dir",
+    "obj_size": 166,
+    "upper_folder": "directory"
+  },
+  {
+    "obj_name": "file_0_1.txt",
+    "obj_type": "file",
+    "obj_size": 56,
+    "upper_folder": "directory"
+  },
+  {
+    "obj_name": "file_0_2.txt",
+    "obj_type": "file",
+    "obj_size": 5,
+    "upper_folder": "directory"
+  },
+  {
+    "obj_name": "file_0_3.txt",
+    "obj_type": "file",
+    "obj_size": 170,
+    "upper_folder": "directory"
+  },
+  {
+    "obj_name": "dir_1_2",
+    "obj_type": "dir",
+    "obj_size": 81,
+    "upper_folder": "directory\\dir_1"
+  },
+  {
+    "obj_name": "file_1_1.txt",
+    "obj_type": "file",
+    "obj_size": 18,
+    "upper_folder": "directory\\dir_1"
+  },
+  {
+    "obj_name": "file_1_2_1.txt",
+    "obj_type": "file",
+    "obj_size": 3,
+    "upper_folder": "directory\\dir_1\\dir_1_2"
+  },
+  {
+    "obj_name": "file_1_2_2.txt",
+    "obj_type": "file",
+    "obj_size": 78,
+    "upper_folder": "directory\\dir_1\\dir_1_2"
+  },
+  {
+    "obj_name": "file_2_1.txt",
+    "obj_type": "file",
+    "obj_size": 159,
+    "upper_folder": "directory\\dir_2"
+  },
+  {
+    "obj_name": "file_2_2.txt",
+    "obj_type": "file",
+    "obj_size": 7,
+    "upper_folder": "directory\\dir_2"
+  }
+]
